@@ -15,4 +15,4 @@ Future<List<UserDetailsMOdel>> fetchUsers() async {
   } else {
     throw Exception('Failed to load users');
   }
-}
+} 
